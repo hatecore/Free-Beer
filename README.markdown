@@ -1,7 +1,7 @@
 FREE VIRTUAL BEER!
 ==================
 
-**DRINK IT!** And edit WhatPeopleHaveToSayAboutTheBeer.txt!
+**DRINK IT!** And edit the file **WhatPeopleHaveToSayAboutTheBeer.txt**!
 
 What is this?
 -------------
