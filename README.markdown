@@ -49,6 +49,8 @@ Released under the FBPL (Free Beer Public License) license.
 
 	Just enjoy, share and be nice!
 
+Don't drink and (war)drive!™
+============================
 
 Remember this project the next time you say:
 - **"I buy the beer next time"**
@@ -115,8 +117,6 @@ Remember this project the next time you say:
 - **"Tôi mua bia vào năm tới,"**
 - **"I brynu cwrw y flwyddyn nesaf,"**
 - **"איך קויפן ביר ווייַטער יאָר,"**
-(According to Google Translate that is).
 
-Don't drink and (war)drive!™
-============================
+(According to Google Translate that is).
 
