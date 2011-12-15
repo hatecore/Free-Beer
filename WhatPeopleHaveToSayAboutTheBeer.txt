@@ -1,0 +1,30 @@
+WhatPeopleHaveToSayAboutTheBeer.txt                          new entries on top
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+I still have the first beer bottle i legally obtained back in 2007 on my shelf.
+It's one Stockholm 7,2. Got it from that hot chick at the checkout register
+number 3. It was February 12 around 14:50 in Gothenburg. Good times! Even
+though i never did drink it.
+
+Pictures of it in Beer_is_Hot/ggustafsson-first_beer*.jpg
+ - ggustafsson, 2011-12-15
+-------------------------------------------------------------------------------
+You went as quickly as you came Krombacher Pils. Miss you! xoxo
+ - Albert Einstein, 1919-07-21
+-------------------------------------------------------------------------------
+Released under the FBPL (Free Beer Public License) license.
+
+ You are free to share these documents with others.
+ You are free to add your own entries in the documents.
+ You are free to add your own photos if you own them.
+ You are not forced but encouraged to share additions upstream.
+
+ You are NOT allowed to change the contributions of others.
+ You are NOT allowed to remove license or other information.
+
+ Just enjoy, share and be nice!
+-------------------------------------------------------------------------------
+https://github.com/ggustafsson/Free-Beer
+-------------------------------------------------------------------------------
+# vim: tw=79
