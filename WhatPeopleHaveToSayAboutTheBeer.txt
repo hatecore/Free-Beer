@@ -5,6 +5,28 @@ WhatPeopleHaveToSayAboutTheBeer.txt                          new entries on top
 
 -------------------------------------------------------------------------------
 
+Linux git commit taken from <https://github.com/torvalds/linux/pull/6>:
+
+commit 11dfcd9567e920fd90738450944f9e3912090af8
+Author: Leo Balter <leonardo.balter@gmail.com>
+Date:   Mon Sep 5 14:43:30 2011 -0300
+
+    putting some beer in the freezer!
+
+diff --git a/kernel/Kconfig.freezer b/kernel/Kconfig.freezer
+index a3bb4cb..562b529 100644
+--- a/kernel/Kconfig.freezer
++++ b/kernel/Kconfig.freezer
+@@ -1,2 +1,4 @@
+ config FREEZER
+        def_bool PM_SLEEP || CGROUP_FREEZER
++
++# some beer here!
+
+ - ggustafsson, 2011-12-17
+
+-------------------------------------------------------------------------------
+
 I still have the first beer bottle i legally obtained back in 2007 on my shelf.
 It's one Stockholm 7,2. Got it from that hot chick at the checkout register
 number 3. It was February 12 around 14:50 in Gothenburg. Good times! Even
